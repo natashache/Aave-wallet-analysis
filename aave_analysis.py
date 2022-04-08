@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  4 16:32:43 2022
 
-@author: NChe
-"""
 import pandas as pd
 import requests
 from datetime import datetime
